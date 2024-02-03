@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContosoCrafts.Website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d683d78a283c4af8f55ffc7791ad0f4ef7f5c1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContosoCrafts.Website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContosoCrafts.Website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

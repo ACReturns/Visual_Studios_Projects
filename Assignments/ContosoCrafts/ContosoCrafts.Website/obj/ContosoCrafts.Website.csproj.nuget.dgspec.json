@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\VisualStudio-Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj": {}
+    "D:\\Github\\Visual_Studios_Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj": {}
   },
   "projects": {
-    "D:\\Github\\VisualStudio-Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj": {
+    "D:\\Github\\Visual_Studios_Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\VisualStudio-Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+        "projectUniqueName": "D:\\Github\\Visual_Studios_Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
         "projectName": "ContosoCrafts.Website",
-        "projectPath": "D:\\Github\\VisualStudio-Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+        "projectPath": "D:\\Github\\Visual_Studios_Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
         "packagesPath": "C:\\Users\\Don\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\VisualStudio-Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\obj\\",
+        "outputPath": "D:\\Github\\Visual_Studios_Projects\\Assignments\\ContosoCrafts\\ContosoCrafts.Website\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
